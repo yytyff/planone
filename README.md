@@ -8,7 +8,7 @@
 详情请点开下面链接：
 ##### [社保](http://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9/73529?fromtitle=%E7%A4%BE%E4%BF%9D&fromid=558563&type=syn)
 ##### [2017年成都五险一金最低标准规定](http://kaoshi.yjbys.com/gongwuyuan/shizhengshenlun/shishizhengye/481443.html)
-#### 2.医疗保险的报销
+### 2.医疗保险的报销
 对于年轻人来说，工伤和失业涉及的很少，你生了小孩，应该享受了生育保险，养老保险还很遥远，当然最重要的就是医疗保险这块了。
 
 ![社保报销比例.png](http://upload-images.jianshu.io/upload_images/4626319-f5f02cfcab9b9450.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
