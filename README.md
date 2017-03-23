@@ -4,24 +4,27 @@
 　　是指用人单位给予劳动者的几种保障性待遇的合称，包括养老保险、医疗保险、失业保险、工伤保险和生育保险，还有住房公积金。
 　　养老保险、医疗保险和失业保险，这三种险和住房公积金是由企业和个人共同缴纳的保费，工伤保险和生育保险完全是由企业承担的，个人不需要缴纳。缴纳社会保险是国家强制性的要求，公积金，是根据企业效益而定，效益不好，可以自己确定比例，不属于社会保险范畴。
 ![比例.png](http://upload-images.jianshu.io/upload_images/4626319-2e4392fd75d5d865.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 详情请点开下面链接：
 ##### [社保](http://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9/73529?fromtitle=%E7%A4%BE%E4%BF%9D&fromid=558563&type=syn)
 ##### [2017年成都五险一金最低标准规定](http://kaoshi.yjbys.com/gongwuyuan/shizhengshenlun/shishizhengye/481443.html)
 #### 2.医疗保险的报销
 对于年轻人来说，工伤和失业涉及的很少，你生了小孩，应该享受了生育保险，养老保险还很遥远，当然最重要的就是医疗保险这块了。
+
 ![社保报销比例.png](http://upload-images.jianshu.io/upload_images/4626319-f5f02cfcab9b9450.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 详情请点开下面链接：
 ##### [成都2016医保报销比例](http://www.pincai.com/group/680605.htm)
 ##### [成都医保报销比例](http://chengdu.chashebao.com/yiliao/12608.html)
 ## 二、商业保险
  虽然现在社保越来越完善，为什么人们还会购买商业保险呢？那是因为现在这个社会空气污染，生活压力，食品安全等等因素导致发病率提高了，经常会看到朋友圈里的轻松筹款，也说明了在我们身边这样的事情确实越来越普遍。而社保只是解决了最基本的医疗报销费用。生过病的人就知道，不是那么简单。
-####商业保险的作用：
+#### 商业保险的作用：
 1，可以报销社保报销后的剩下部分
 2，可以报销自费药的部分
 3，可以弥补收入损失（针对家庭经济支柱最明显）
 4，可以弥补交通费，营养费等等‘
 5，其实对于得大病来说，是一笔急用的现金（一般家庭不会放十万二十万在家里）
-##三、 我给你做的是泰康人寿的健康保障计划：
+## 三、 我给你做的是泰康人寿的健康保障计划：
 1，公司：泰康人寿是一家大型的保险公司，你可以放心,你可以查看官网
 ##### [泰康人寿官网](http://www.taikang.com/)
 2，服务：泰康人寿在医疗健康服务这块在整个保险行业中算是数一数二的，特别是他的重疾绿通服务做的很好
@@ -35,8 +38,8 @@
 
 ###  成语涵，女，2016.3.6，1岁
 ![](http://upload-images.jianshu.io/upload_images/4626319-9d42990198041307.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-保障内容：
+ 
+### 保障内容：
 ##### 1、重疾保障20万，60种重疾保障：
 
 ![](http://upload-images.jianshu.io/upload_images/4626319-dbcbd65d2292d469.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
