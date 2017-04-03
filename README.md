@@ -1,4 +1,4 @@
-1.过滤如下数组，只保留正数
+#### 1.过滤如下数组，只保留正数
 ```
 var arr = [3,1,0,-1,-3,2,-5]
 function filter(arr){
@@ -12,7 +12,7 @@ function filter(arr){
 filter(arr)
 console.log(arr) // [3,1,2]
 ```
-2.过滤如下数组，只保留正数，原数组不变，生成新数组
+#### 2.过滤如下数组，只保留正数，原数组不变，生成新数组
 ```
 var arr = [3,1,0,-1,-3,2,-5]
 function filter(arr){
