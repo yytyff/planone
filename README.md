@@ -28,3 +28,30 @@ var arr2 = filter(arr)
 console.log(arr2) // [3,1,2]
 console.log(arr)  // [3,1,0,-1,-2,2,-5]
 ```
+### 3.深拷贝函数，两种实现方式
+```
+第一种：
+function copy(obj){
+	var newObj = {};
+	for (var key in obj){
+		if(obj.hasOwnProperty(key)){
+			if(typeof obj[key] ==='number' || typeof obj[key] ==='boolean'
+                        || typeof obj[key] ==='string'|| obj[key] === undefined||
+                         obj[key] === null){
+			newObj[key] = obj[key];
+		}else{
+			newObj[key] = copy(obj[key]);
+		}
+	}	
+}
+	return newObj;
+}
+第二种：
+JSON.stringify(obj)
+JSON.parse()
+JSON.parse(JSON.stringify(obj))
+function copy(obj){
+        var newObj = JSON.parse(JSON.stringify(obj));
+        return newObj;
+ }
+ ```
